@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23719618033",
+    "project_id": "mood-tracker-ryugibo",
+    "storage_bucket": "mood-tracker-ryugibo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23719618033:android:7d00a7f447f0a2ab951050",
+        "android_client_info": {
+          "package_name": "com.ryugibo.mood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOjbj5fnyrJHYsGYCW4IMJtTziCR9l0Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
